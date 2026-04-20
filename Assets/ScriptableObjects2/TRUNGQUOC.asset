@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea58016415927e41b1544df4735bf74, type: 3}
+  m_Name: TRUNGQUOC
+  m_EditorClassIdentifier: 
+  countryName: "Trung Qu\u1ED1c"
+  borderProvinceIDs:
+  - T1_0
+  - T2_0
+  - T3_0
+  - T4_0
+  - T6_0
+  - T7_0
+  - T11_0
+  borderObjectName: TRUNGQUOC
+  countryDescription: "\u0110\u01B0\u1EDDng bi\xEAn gi\u1EDBi \u0111\u1EA5t li\u1EC1n
+    Vi\u1EC7t - Trung d\xE0i kho\u1EA3ng 1.281 km, b\u1EAFt \u0111\u1EA7u t\u1EEB
+    ng\xE3 ba bi\xEAn gi\u1EDBi Vi\u1EC7t - L\xE0o - Trung (A Pa Ch\u1EA3i, \u0110i\u1EC7n
+    Bi\xEAn) \u0111\u1EBFn \u0111i\u1EC3m k\u1EBFt th\xFAc t\u1EA1i c\u1EEDa s\xF4ng
+    B\u1EAFc Lu\xE2n (M\xF3ng C\xE1i, Qu\u1EA3ng Ninh).\n\nSau c\xE1c \u0111\u1EE3t
+    s\u1EAFp x\u1EBFp \u0111\u1ECBa gi\u1EDBi h\xE0nh ch\xEDnh, \u0111\u01B0\u1EDDng
+    bi\xEAn gi\u1EDBi n\xE0y hi\u1EC7n \u0111i qua 7 t\u1EC9nh bi\xEAn gi\u1EDBi
+    ph\xEDa B\u1EAFc bao g\u1ED3m: \u0110i\u1EC7n Bi\xEAn, Lai Ch\xE2u, L\xE0o Cai,
+    Tuy\xEAn , Cao B\u1EB1ng, L\u1EA1ng S\u01A1n v\xE0 Qu\u1EA3ng Ninh. \u0110\xE2y
+    l\xE0 khu v\u1EF1c c\xF3 \u0111\u1ECBa h\xECnh n\xFAi cao, hi\u1EC3m tr\u1EDF
+    nh\u01B0ng \u0111\xF3ng vai tr\xF2 l\xE0 c\u1EEDa ng\xF5 giao th\u01B0\u01A1ng
+    kinh t\u1EBF \u0111\u1EB7c bi\u1EC7t quan tr\u1ECDng gi\u1EEFa Vi\u1EC7t Nam
+    v\xE0 c\xE1c t\u1EC9nh ph\xEDa Nam Trung Qu\u1ED1c th\xF4ng qua h\u1EC7 th\u1ED1ng
+    c\u1EEDa kh\u1EA9u qu\u1ED1c t\u1EBF s\u1EA7m u\u1EA5t."

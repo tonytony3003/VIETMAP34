@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: HAIPHONG
+  m_EditorClassIdentifier: 
+  provinceName: "Th\xE0nh Ph\u1ED1 H\u1EA3i Ph\xF2ng"
+  provinceID: T13_0
+  provinceImage: {fileID: 1529292528, guid: e23c3d460b375d143bd5621e9cbc2729, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: 69d512ac8140ece41873830fb528e1c3, type: 3}
+  - {fileID: 21300000, guid: ba8bcbce6c416e84c951ace9619cc748, type: 3}
+  MergerProvince: {fileID: 21300000, guid: 255e516366e8e5d4c99fcf6e1ac33173, type: 3}
+  provinceImage1: {fileID: 21300000, guid: 16672e8cfcf174640b8994ab24b78b5e, type: 3}
+  provinceImage2: {fileID: 21300000, guid: a4114991e6a11404482ca2302c3113cb, type: 3}
+  provinceImage3: {fileID: 21300000, guid: d0814c12c44921749884646c76833a70, type: 3}
+  description: "H\u1EA3i Ph\xF2ng l\xE0 th\xE0nh ph\u1ED1 tr\u1EF1c thu\u1ED9c trung
+    \u01B0\u01A1ng n\u1EB1m \u1EDF v\xF9ng \u0110\u1ED3ng b\u1EB1ng s\xF4ng H\u1ED3ng,
+    thu\u1ED9c ph\xEDa B\u1EAFc c\u1EE7a Vi\u1EC7t Nam. \u0110\xE2y l\xE0 m\u1ED9t
+    trong nh\u1EEFng th\xE0nh ph\u1ED1 c\u1EA3ng l\u1EDBn v\xE0 quan tr\u1ECDng nh\u1EA5t
+    c\u1EE7a Vi\u1EC7t Nam, \u0111\xF3ng vai tr\xF2 trung t\xE2m kinh t\u1EBF, th\u01B0\u01A1ng
+    m\u1EA1i v\xE0 giao th\xF4ng \u0111\u01B0\u1EDDng bi\u1EC3n c\u1EE7a mi\u1EC1n
+    B\u1EAFc. H\u1EA3i Ph\xF2ng c\xF2n n\u1ED5i ti\u1EBFng v\u1EDBi nhi\u1EC1u \u0111\u1ECBa
+    \u0111i\u1EC3m du l\u1ECBch nh\u01B0 \u0110\u1EA3o C\xE1t B\xE0 v\xE0 V\u1ECBnh
+    Lan H\u1EA1. Th\xE0nh ph\u1ED1 c\u0169ng \u0111\u01B0\u1EE3c bi\u1EBFt \u0111\u1EBFn
+    v\u1EDBi n\xE9t v\u0103n h\xF3a \u0111\u1EB7c tr\u01B0ng c\u1EE7a v\xF9ng bi\u1EC3n
+    v\xE0 nhi\u1EC1u l\u1EC5 h\u1ED9i truy\u1EC1n th\u1ED1ng \u0111\u1EB7c s\u1EAFc."
+  desSatNhap: "Theo c\xE1c \u0111\u1EC1 \xE1n v\xE0 ngh\u1ECB quy\u1EBFt c\u1EADp
+    nh\u1EADt \u0111\u1EBFn n\u0103m 2025-2026, H\u1EA3i Ph\xF2ng v\xE0 H\u1EA3i
+    D\u01B0\u01A1ng s\xE1p nh\u1EADp th\xE0nh ph\u1ED1 m\u1EDBi v\u1EABn l\u1EA5y
+    t\xEAn l\xE0 th\xE0nh ph\u1ED1 H\u1EA3i Ph\xF2ng. \u0110\xE2y l\xE0 m\u1ED9t
+    \u0111\xF4 th\u1ECB l\u1EDBn, tr\u1ECDng \u0111i\u1EC3m c\u1EA3ng bi\u1EC3n v\xE0
+    c\xF4ng nghi\u1EC7p, v\u1EDBi trung t\xE2m h\xE0nh ch\xEDnh \u0111\u1EB7t t\u1EA1i
+    H\u1EA3i Ph\xF2ng hi\u1EC7n nay. \u0110\u01A1n v\u1ECB m\u1EDBi bao g\u1ED3m
+    114 x\xE3, ph\u01B0\u1EDDng, v\xE0 hai \u0111\u1EB7c khu. "

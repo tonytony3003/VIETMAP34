@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea58016415927e41b1544df4735bf74, type: 3}
+  m_Name: CAMPUCHIA
+  m_EditorClassIdentifier: 
+  countryName: Campuchia
+  borderProvinceIDs:
+  - T22_0
+  - T23_0
+  - T24_0
+  - T26_0
+  - T27_0
+  - T28_0
+  - T30_0
+  - T31_0
+  borderObjectName: CAMPUCHIA
+  countryDescription: "\u0110\u01B0\u1EDDng bi\xEAn gi\u1EDBi \u0111\u1EA5t li\u1EC1n
+    Vi\u1EC7t Nam - Campuchia d\xE0i kho\u1EA3ng 1.270 km, b\u1EAFt \u0111\u1EA7u
+    t\u1EEB ng\xE3 ba bi\xEAn gi\u1EDBi Vi\u1EC7t - L\xE0o - Campuchia (Qu\u1EA3ng
+    Ng\xE3i) v\xE0 k\u1EBFt th\xFAc t\u1EA1i \u0111i\u1EC3m gi\xE1p bi\u1EC3n v\u1ECBnh
+    Th\xE1i Lan (An Giang).\n\n\u0110\u01B0\u1EDDng bi\xEAn gi\u1EDBi n\xE0y \u0111i
+    qua 8 t\u1EC9nh: Qu\u1EA3ng Ng\xE3i, Gia Lai, \u0110\u1EAFk L\u1EAFk, L\xE2m
+    \u0110\u1ED3ng, \u0110\u1ED3ng Nai , T\xE2y Ninh, \u0110\u1ED3ng Th\xE1p v\xE0
+    An Giang. \u0110\u1ECBa h\xECnh khu v\u1EF1c bi\xEAn gi\u1EDBi chuy\u1EC3n ti\u1EBFp
+    t\u1EEB v\xF9ng \u0111\u1ED3i n\xFAi cao nguy\xEAn \u1EDF ph\xEDa B\u1EAFc xu\u1ED1ng
+    v\xF9ng \u0111\u1ED3ng b\u1EB1ng s\xF4ng C\u1EEDu Long b\u1EB1ng ph\u1EB3ng,
+    v\u1EDBi h\u1EC7 th\u1ED1ng s\xF4ng ng\xF2i v\xE0 k\xEAnh r\u1EA1ch ch\u1EB1ng
+    ch\u1ECBt, t\u1EA1o \u0111i\u1EC1u ki\u1EC7n thu\u1EADn l\u1EE3i cho vi\u1EC7c
+    ph\xE1t tri\u1EC3n kinh t\u1EBF c\u1EEDa kh\u1EA9u v\xE0 giao l\u01B0u v\u0103n
+    h\xF3a gi\u1EEFa nh\xE2n d\xE2n v\xF9ng bi\xEAn."

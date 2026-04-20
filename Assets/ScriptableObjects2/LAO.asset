@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea58016415927e41b1544df4735bf74, type: 3}
+  m_Name: LAO
+  m_EditorClassIdentifier: 
+  countryName: "L\xE0o"
+  borderProvinceIDs:
+  - T6_0
+  - T8_0
+  - T16_0
+  - T17_0
+  - T18_0
+  - T19_0
+  - T20_0
+  - T21_0
+  - T22_0
+  borderObjectName: LAO
+  countryDescription: "\u0110\xE2y l\xE0 \u0111\u01B0\u1EDDng bi\xEAn gi\u1EDBi tr\xEAn
+    \u0111\u1EA5t li\u1EC1n d\xE0i nh\u1EA5t c\u1EE7a Vi\u1EC7t Nam v\u1EDBi chi\u1EC1u
+    d\xE0i kho\u1EA3ng 2.161 km, k\xE9o d\xE0i t\u1EEB t\u1EC9nh \u0110i\u1EC7n Bi\xEAn
+    \u0111\u1EBFn t\u1EC9nh Qu\u1EA3ng Ng\xE3i.\n\n\u0110\u01B0\u1EDDng bi\xEAn gi\u1EDBi
+    n\xE0y \u0111i qua \u0111\u1ECBa ph\u1EADn c\u1EE7a 9 t\u1EC9nh: \u0110i\u1EC7n
+    Bi\xEAn, S\u01A1n La, Thanh H\xF3a, Ngh\u1EC7 An, H\xE0 T\u0129nh, Qu\u1EA3ng
+    Tr\u1ECB, TP Hu\u1EBF,TP \u0110\xE0 N\u1EB5ng v\xE0 Qu\u1EA3ng Ng\xE3i. Ph\u1EA7n
+    l\u1EDBn ranh gi\u1EDBi ch\u1EA1y d\u1ECDc theo s\u1ED1ng n\xFAi c\u1EE7a d\xE3y
+    Tr\u01B0\u1EDDng S\u01A1n h\xF9ng v\u0129. Khu v\u1EF1c n\xE0y kh\xF4ng ch\u1EC9
+    c\xF3 \xFD ngh\u0129a quan tr\u1ECDng v\u1EC1 m\u1EB7t an ninh qu\u1ED1c ph\xF2ng
+    m\xE0 c\xF2n l\xE0 n\u01A1i l\u01B0u gi\u1EEF nh\u1EEFng gi\xE1 tr\u1ECB \u0111a
+    d\u1EA1ng sinh h\u1ECDc qu\xFD gi\xE1 v\xE0 l\xE0 bi\u1EC3u t\u01B0\u1EE3ng c\u1EE7a
+    t\xECnh h\u1EEFu ngh\u1ECB \u0111\u1EB7c bi\u1EC7t gi\u1EEFa hai qu\u1ED1c gia
+    Vi\u1EC7t - L\xE0o."

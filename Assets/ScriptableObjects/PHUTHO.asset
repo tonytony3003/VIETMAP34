@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: PHUTHO
+  m_EditorClassIdentifier: 
+  provinceName: "T\u1EC9nh Ph\xFA Th\u1ECD"
+  provinceID: T9_0
+  provinceImage: {fileID: -1361673989, guid: 912e74287238f164f8f171405273afbe, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: a04a38e33c0f47642b6c3a2618a017c5, type: 3}
+  - {fileID: 21300000, guid: 15ebc4c198359f4439c1ce7f53d6b565, type: 3}
+  - {fileID: 21300000, guid: ccffa8f88978a9b499dae89afa73cd38, type: 3}
+  MergerProvince: {fileID: 21300000, guid: f996fdcdc8c98bf4c8ca06606304f989, type: 3}
+  provinceImage1: {fileID: 21300000, guid: fe3ea1f510f741c49a72fb001df0b667, type: 3}
+  provinceImage2: {fileID: 21300000, guid: ecce4eaa9a7fcaf428529710b8205fbd, type: 3}
+  provinceImage3: {fileID: 21300000, guid: c39f1c3d47a79814fb374b0ff231bf0b, type: 3}
+  description: "Ph\xFA Th\u1ECD l\xE0 m\u1ED9t t\u1EC9nh thu\u1ED9c v\xF9ng Trung
+    du v\xE0 mi\u1EC1n n\xFAi B\u1EAFc B\u1ED9 \u1EDF ph\xEDa B\u1EAFc c\u1EE7a Vi\u1EC7t
+    Nam. \u0110\xE2y \u0111\u01B0\u1EE3c xem l\xE0 v\xF9ng \u0111\u1EA5t c\u1ED9i
+    ngu\u1ED3n c\u1EE7a d\xE2n t\u1ED9c Vi\u1EC7t Nam, n\u01A1i g\u1EAFn li\u1EC1n
+    v\u1EDBi th\u1EDDi k\u1EF3 d\u1EF1ng n\u01B0\u1EDBc c\u1EE7a c\xE1c vua H\xF9ng.
+    Trung t\xE2m c\u1EE7a t\u1EC9nh l\xE0 th\xE0nh ph\u1ED1 Vi\u1EC7t Tr\xEC. M\u1ED9t
+    s\u1ED1 \u0111\u1ECBa danh n\u1ED5i b\u1EADt c\u1EE7a t\u1EC9nh g\u1ED3m Khu
+    di t\xEDch l\u1ECBch s\u1EED \u0110\u1EC1n H\xF9ng, V\u01B0\u1EDDn qu\u1ED1c
+    gia Xu\xE2n S\u01A1n v\xE0 \u0110\u1EA7m Ao Ch\xE2u.\n\nPh\xFA Th\u1ECD c\xF3
+    nhi\u1EC1u \u0111\u1EB7c s\u1EA3n \u0111\u1ECBa ph\u01B0\u01A1ng nh\u01B0 B\u01B0\u1EDFi
+    \u0110oan H\xF9ng, Th\u1ECBt chua Ph\xFA Th\u1ECD v\xE0 C\u1ECD \u1ECFm.\n\nV\u1EC1
+    v\u0103n h\xF3a, Ph\xFA Th\u1ECD n\u1ED5i ti\u1EBFng v\u1EDBi Gi\u1ED7 T\u1ED5
+    H\xF9ng V\u01B0\u01A1ng t\u1ED5 ch\u1EE9c h\u1EB1ng n\u0103m t\u1EA1i \u0110\u1EC1n
+    H\xF9ng \u0111\u1EC3 t\u01B0\u1EDFng nh\u1EDB c\xE1c vua H\xF9ng. B\xEAn c\u1EA1nh
+    \u0111\xF3, H\xE1t Xoan Ph\xFA Th\u1ECD l\xE0 lo\u1EA1i h\xECnh ngh\u1EC7 thu\u1EADt
+    d\xE2n gian \u0111\u1EB7c s\u1EAFc \u0111\xE3 \u0111\u01B0\u1EE3c UNESCO c\xF4ng
+    nh\u1EADn l\xE0 Di s\u1EA3n v\u0103n h\xF3a phi v\u1EADt th\u1EC3 c\u1EE7a nh\xE2n
+    lo\u1EA1i."
+  desSatNhap: "T\u1EEB ng\xE0y 01/7/2025, t\u1EC9nh H\xF2a B\xECnh v\xE0 V\u0129nh
+    Ph\xFAc ch\xEDnh th\u1EE9c s\xE1p nh\u1EADp v\xE0o Ph\xFA Th\u1ECD \u0111\u1EC3
+    h\xECnh th\xE0nh \u0111\u01A1n v\u1ECB h\xE0nh ch\xEDnh m\u1EDBi, t\xEAn g\u1ECDi
+    l\xE0 t\u1EC9nh Ph\xFA Th\u1ECD. T\u1EC9nh m\u1EDBi c\xF3 di\u1EC7n t\xEDch h\u01A1n
+    \r                                                                           
+    9,300km vu\xF4ng, tr\u1EDF th\xE0nh trung t\xE2m k\u1EBFt n\u1ED1i v\u0103n h\xF3a
+    - du l\u1ECBch \u0111\u1EB7c s\u1EAFc (\u0110\u1EC1n H\xF9ng, h\u1ED3 H\xF2a
+    B\xECnh) v\xE0 ph\xE1t tri\u1EC3n kinh t\u1EBF c\xF4ng nghi\u1EC7p - d\u1ECBch
+    v\u1EE5 m\u1EA1nh m\u1EBD."

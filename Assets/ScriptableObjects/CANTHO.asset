@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: CANTHO
+  m_EditorClassIdentifier: 
+  provinceName: "Th\xE0nh Ph\u1ED1 C\u1EA7n Th\u01A1"
+  provinceID: T33_0
+  provinceImage: {fileID: 248926436, guid: 6f379bd5b110ccf44b49976f092a7daf, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: 0c11284081dae4241a738495b80bb4f2, type: 3}
+  - {fileID: 21300000, guid: 93fab9a740e0c1b4d92baea7b3ed3d77, type: 3}
+  - {fileID: 21300000, guid: 7070891e8f8ef704ead7990d4a29ca54, type: 3}
+  MergerProvince: {fileID: 21300000, guid: cf15a9b30b18c03428aa3f267ca66c49, type: 3}
+  provinceImage1: {fileID: 21300000, guid: 428ac3efaa1bf7d4f9b7800a1156e2a6, type: 3}
+  provinceImage2: {fileID: 21300000, guid: 64c1b0ea8b2bbce42b28baf3e213b642, type: 3}
+  provinceImage3: {fileID: 21300000, guid: 0d98d1e36480fa7489d5e8f9ae8e3423, type: 3}
+  description: "C\u1EA7n Th\u01A1 l\xE0 th\xE0nh ph\u1ED1 tr\u1EF1c thu\u1ED9c trung
+    \u01B0\u01A1ng n\u1EB1m \u1EDF trung t\xE2m v\xF9ng \u0110\u1ED3ng b\u1EB1ng
+    s\xF4ng C\u1EEDu Long c\u1EE7a Vi\u1EC7t Nam. Th\xE0nh ph\u1ED1 \u0111\u01B0\u1EE3c
+    xem l\xE0 trung t\xE2m kinh t\u1EBF, v\u0103n h\xF3a v\xE0 gi\xE1o d\u1EE5c quan
+    tr\u1ECDng c\u1EE7a khu v\u1EF1c mi\u1EC1n T\xE2y Nam B\u1ED9. C\u1EA7n Th\u01A1
+    n\u1ED5i ti\u1EBFng v\u1EDBi h\u1EC7 th\u1ED1ng s\xF4ng ng\xF2i ch\u1EB1ng ch\u1ECBt,
+    \u0111\u1EB7c bi\u1EC7t l\xE0 Ch\u1EE3 n\u1ED5i C\xE1i R\u0103ng \u2013 m\u1ED9t
+    trong nh\u1EEFng ch\u1EE3 n\u1ED5i l\u1EDBn v\xE0 nh\u1ED9n nh\u1ECBp nh\u1EA5t
+    mi\u1EC1n T\xE2y. Ngo\xE0i ra, n\u01A1i \u0111\xE2y c\xF2n h\u1EA5p d\u1EABn
+    du kh\xE1ch b\u1EDFi v\u01B0\u1EDDn c\xE2y tr\xE1i tr\xF9 ph\xFA, \u1EA9m th\u1EF1c
+    phong ph\xFA v\xE0 n\xE9t v\u0103n h\xF3a s\xF4ng n\u01B0\u1EDBc \u0111\u1EB7c
+    tr\u01B0ng."
+  desSatNhap: "T\u1EEB ng\xE0y 1/7/2025, TP. C\u1EA7n Th\u01A1, t\u1EC9nh H\u1EADu
+    Giang v\xE0 t\u1EC9nh S\xF3c Tr\u0103ng ch\xEDnh th\u1EE9c s\xE1p nh\u1EADp th\xE0nh
+    th\xE0nh ph\u1ED1 tr\u1EF1c thu\u1ED9c trung \u01B0\u01A1ng m\u1EDBi, l\u1EA5y
+    t\xEAn l\xE0 th\xE0nh ph\u1ED1 C\u1EA7n Th\u01A1. \u0110\u01A1n v\u1ECB h\xE0nh
+    ch\xEDnh m\u1EDBi n\xE0y s\u1EBD tr\u1EDF th\xE0nh trung t\xE2m kinh t\u1EBF
+    - x\xE3 h\u1ED9i l\u1EDBn, t\u1EA1o b\u1EE9t ph\xE1 cho v\xF9ng \u0110\u1ED3ng
+    b\u1EB1ng s\xF4ng C\u1EEDu Long, v\u1EDBi c\u1EA5u tr\xFAc 103 x\xE3, ph\u01B0\u1EDDng
+    (31 ph\u01B0\u1EDDng, 72 x\xE3)."

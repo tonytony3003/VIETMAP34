@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: DANANG
+  m_EditorClassIdentifier: 
+  provinceName: "Th\xE0nh Ph\u1ED1 \u0110\xE0 N\u1EB5ng"
+  provinceID: T21_0
+  provinceImage: {fileID: 21300000, guid: 49354529100a12f43aa8a6ef37ab1b5c, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: de0828a8e071bfe43a8ecc20ed72bac2, type: 3}
+  - {fileID: 21300000, guid: 6356dc0c9380b5c45942d4bcd7c66957, type: 3}
+  MergerProvince: {fileID: 21300000, guid: e84778344d24c1e47a93d6f0be5ff84c, type: 3}
+  provinceImage1: {fileID: 21300000, guid: c8a689a72d21e7247b9eec65a22db9ed, type: 3}
+  provinceImage2: {fileID: 21300000, guid: 69abe44aef8253c49995804f119f6131, type: 3}
+  provinceImage3: {fileID: 21300000, guid: 9288f21488b962246a5c161902e93c97, type: 3}
+  description: "\u0110\xE0 N\u1EB5ng l\xE0 th\xE0nh ph\u1ED1 tr\u1EF1c thu\u1ED9c
+    trung \u01B0\u01A1ng n\u1EB1m \u1EDF mi\u1EC1n Trung c\u1EE7a Vi\u1EC7t Nam,
+    \u0111\u01B0\u1EE3c xem l\xE0 trung t\xE2m kinh t\u1EBF, du l\u1ECBch v\xE0 giao
+    th\xF4ng quan tr\u1ECDng c\u1EE7a khu v\u1EF1c. Th\xE0nh ph\u1ED1 n\u1ED5i ti\u1EBFng
+    v\u1EDBi nh\u1EEFng b\xE3i bi\u1EC3n \u0111\u1EB9p nh\u01B0 B\xE3i bi\u1EC3n
+    M\u1EF9 Kh\xEA v\xE0 c\xE1c \u0111\u1ECBa danh du l\u1ECBch h\u1EA5p d\u1EABn
+    nh\u01B0 B\xE0 N\xE0 Hills hay C\u1EA7u R\u1ED3ng. V\u1EDBi c\u1EA3nh quan thi\xEAn
+    nhi\xEAn h\xE0i h\xF2a gi\u1EEFa bi\u1EC3n, n\xFAi v\xE0 s\xF4ng, c\xF9ng m\xF4i
+    tr\u01B0\u1EDDng s\u1ED1ng hi\u1EC7n \u0111\u1EA1i, s\u1EA1ch \u0111\u1EB9p,
+    \u0110\xE0 N\u1EB5ng \u0111\u01B0\u1EE3c xem l\xE0 m\u1ED9t trong nh\u1EEFng
+    th\xE0nh ph\u1ED1 \u0111\xE1ng s\u1ED1ng nh\u1EA5t Vi\u1EC7t Nam."
+  desSatNhap: "T\u1EEB ng\xE0y 1/7/2025, t\u1EC9nh Qu\u1EA3ng Nam v\xE0 th\xE0nh
+    ph\u1ED1 \u0110\xE0 N\u1EB5ng ch\xEDnh th\u1EE9c s\xE1p nh\u1EADp th\xE0nh m\u1ED9t
+    \u0111\u01A1n v\u1ECB h\xE0nh ch\xEDnh tr\u1EF1c thu\u1ED9c Trung \u01B0\u01A1ng,
+    l\u1EA5y t\xEAn l\xE0 th\xE0nh ph\u1ED1 \u0110\xE0 N\u1EB5ng theo Ngh\u1ECB quy\u1EBFt
+    60-NQ/TW. \u0110\u01A1n v\u1ECB m\u1EDBi c\xF3 quy m\xF4 di\u1EC7n t\xEDch v\xE0
+    d\xE2n s\u1ED1 l\u1EDBn, h\u01B0\u1EDBng t\u1EDBi trung t\xE2m t\xE0i ch\xEDnh
+    qu\u1ED1c t\u1EBF, ph\xE1t tri\u1EC3n \u0111\xF4 th\u1ECB th\xF4ng minh v\xF9ng
+    \u0110\xF4ng v\xE0 k\u1EBFt n\u1ED1i h\u1EA1 t\u1EA7ng giao th\xF4ng m\u1EA1nh
+    m\u1EBD"

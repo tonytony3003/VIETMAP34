@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: DAKLAK
+  m_EditorClassIdentifier: 
+  provinceName: "T\u1EC9nh \u0110\u1EAFk L\u1EAFk"
+  provinceID: T24_0
+  provinceImage: {fileID: 925277811, guid: 43de67f2aff96d34b9084b0fa249d9b1, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: 9dc518bfe8160144781db8a48359a2c3, type: 3}
+  - {fileID: 21300000, guid: 7155800588c2f704aab0dc0b77e9339b, type: 3}
+  MergerProvince: {fileID: 21300000, guid: ee91413b3ad31ea46be0a4b2eff7af35, type: 3}
+  provinceImage1: {fileID: 21300000, guid: 3b43f21129f39284785fc1fbdc3933fa, type: 3}
+  provinceImage2: {fileID: 21300000, guid: 104672014b884984989d8b004dc8024e, type: 3}
+  provinceImage3: {fileID: 21300000, guid: 0851ea360a87bf44bac72430d6f27a40, type: 3}
+  description: "\u0110\u1EAFk L\u1EAFk l\xE0 m\u1ED9t t\u1EC9nh n\u1EB1m \u1EDF khu
+    v\u1EF1c T\xE2y Nguy\xEAn, n\u1ED5i ti\u1EBFng v\u1EDBi nh\u1EEFng cao nguy\xEAn
+    r\u1ED9ng l\u1EDBn v\xE0 thi\xEAn nhi\xEAn h\xF9ng v\u0129. Trung t\xE2m c\u1EE7a
+    t\u1EC9nh l\xE0 th\xE0nh ph\u1ED1 Bu\xF4n Ma Thu\u1ED9t, \u0111\u01B0\u1EE3c
+    xem l\xE0 \u201Cth\u1EE7 ph\u1EE7 c\xE0 ph\xEA\u201D c\u1EE7a Vi\u1EC7t Nam.
+    \u0110\u1EAFk L\u1EAFk c\xF2n h\u1EA5p d\u1EABn du kh\xE1ch v\u1EDBi c\xE1c \u0111\u1ECBa
+    danh n\u1ED5i ti\u1EBFng nh\u01B0 H\u1ED3 L\u1EAFk v\xE0 Th\xE1c Dray Nur. Ngo\xE0i
+    ra, n\u01A1i \u0111\xE2y c\xF2n c\xF3 n\u1EC1n v\u0103n h\xF3a \u0111\u1EB7c
+    s\u1EAFc c\u1EE7a c\xE1c d\xE2n t\u1ED9c nh\u01B0 \xCA \u0110\xEA, M\u2019n\xF4ng
+    v\u1EDBi nh\u1EEFng l\u1EC5 h\u1ED9i truy\u1EC1n th\u1ED1ng, nh\xE0 d\xE0i v\xE0
+    kh\xF4ng gian v\u0103n h\xF3a c\u1ED3ng chi\xEAng \u0111\u1EB7c tr\u01B0ng c\u1EE7a
+    v\xF9ng T\xE2y Nguy\xEAn."
+  desSatNhap: "Theo quy\u1EBFt \u0111\u1ECBnh ch\xEDnh th\u1EE9c t\u1EA1i Ngh\u1ECB
+    quy\u1EBFt s\u1ED1 202/2025/QH15, t\u1EC9nh \u0110\u1EAFk L\u1EAFk s\u1EBD th\u1EF1c
+    hi\u1EC7n t\xE1i c\u1EA5u tr\xFAc kh\xF4ng gian h\xE0nh ch\xEDnh \u1EDF quy m\xF4
+    l\u1EDBn ch\u01B0a t\u1EEBng c\xF3. C\u1EE5 th\u1EC3, Qu\u1ED1c h\u1ED9i quy\u1EBFt
+    \u0111\u1ECBnh s\xE1p nh\u1EADp to\xE0n b\u1ED9 di\u1EC7n t\xEDch t\u1EF1 nhi\xEAn
+    v\xE0 quy m\xF4 d\xE2n s\u1ED1 c\u1EE7a t\u1EC9nh Ph\xFA Y\xEAn v\xE0o t\u1EC9nh
+    \u0110\u1EAFk L\u1EAFk, h\xECnh th\xE0nh n\xEAn m\u1ED9t \u0111\u01A1n v\u1ECB
+    h\xE0nh ch\xEDnh m\u1EDBi v\u1EABn gi\u1EEF t\xEAn g\u1ECDi l\xE0 t\u1EC9nh \u0110\u1EAFk
+    L\u1EAFk.\r\n\r\nS\u1EF1 s\xE1p nh\u1EADp n\xE0y ki\u1EBFn t\u1EA1o n\xEAn m\u1ED9t
+    v\u1ECB th\u1EBF \u0111\u1ECBa ch\xEDnh tr\u1ECB \u0111\u1EB7c bi\u1EC7t cho
+    \u0110\u1EAFk L\u1EAFk m\u1EDBi, n\u1ED1i li\u1EC1n m\u1EA1ch m\xE1u giao th\xF4ng
+    v\xE0 kinh t\u1EBF t\u1EEB \u0111\u1EA1i ng\xE0n T\xE2y Nguy\xEAn xu\u1ED1ng
+    duy\xEAn h\u1EA3i Nam Trung B\u1ED9."

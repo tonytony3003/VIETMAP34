@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: QUANGTRI
+  m_EditorClassIdentifier: 
+  provinceName: "T\u1EC9nh Qu\u1EA3ng Tr\u1ECB"
+  provinceID: T19_0
+  provinceImage: {fileID: -2054207471, guid: 7519f7297d88708469f3998042d58afb, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: 5718fa7d7ad8cab4b9b543f1a2124f3e, type: 3}
+  - {fileID: 21300000, guid: 6acbb22e7e5ab794e8135a9062d86f38, type: 3}
+  MergerProvince: {fileID: 21300000, guid: 36c86af047a4c424a9b300a12b8cf819, type: 3}
+  provinceImage1: {fileID: 21300000, guid: efd1553f827e03543a8f02c850916d8d, type: 3}
+  provinceImage2: {fileID: 21300000, guid: 1f182e398fb4a8745ac358ac53908a11, type: 3}
+  provinceImage3: {fileID: 21300000, guid: 92742b1c158ce784f9d9894511a3e5e1, type: 3}
+  description: "Qu\u1EA3ng Tr\u1ECB l\xE0 m\u1ED9t t\u1EC9nh thu\u1ED9c v\xF9ng B\u1EAFc
+    Trung B\u1ED9 \u1EDF mi\u1EC1n Trung c\u1EE7a Vi\u1EC7t Nam, c\xF3 v\u1ECB tr\xED
+    quan tr\u1ECDng tr\xEAn tr\u1EE5c giao th\xF4ng B\u1EAFc \u2013 Nam v\xE0 gi\xE1p
+    v\u1EDBi L\xE0o. Trung t\xE2m c\u1EE7a t\u1EC9nh l\xE0 th\xE0nh ph\u1ED1 \u0110\xF4ng
+    H\xE0. Qu\u1EA3ng Tr\u1ECB n\u1ED5i ti\u1EBFng v\u1EDBi nhi\u1EC1u \u0111\u1ECBa
+    danh l\u1ECBch s\u1EED g\u1EAFn li\u1EC1n v\u1EDBi th\u1EDDi k\u1EF3 chi\u1EBFn
+    tranh nh\u01B0 Th\xE0nh c\u1ED5 Qu\u1EA3ng Tr\u1ECB, S\xF4ng B\u1EBFn H\u1EA3i
+    v\xE0 C\u1EA7u Hi\u1EC1n L\u01B0\u01A1ng \u2013 n\u01A1i t\u1EEBng l\xE0 ranh
+    gi\u1EDBi t\u1EA1m th\u1EDDi gi\u1EEFa hai mi\u1EC1n Vi\u1EC7t Nam.\n\nQu\u1EA3ng
+    Tr\u1ECB c\xF3 nhi\u1EC1u \u0111\u1EB7c s\u1EA3n \u0111\u1ECBa ph\u01B0\u01A1ng
+    nh\u01B0 B\xE1nh b\u1ED9t l\u1ECDc Qu\u1EA3ng Tr\u1ECB, Ch\xE1o b\u1ED9t c\xE1
+    l\xF3c v\xE0 Ti\xEAu C\xF9a.\n\nV\u1EC1 v\u0103n h\xF3a, Qu\u1EA3ng Tr\u1ECB
+    l\xE0 v\xF9ng \u0111\u1EA5t gi\xE0u truy\u1EC1n th\u1ED1ng l\u1ECBch s\u1EED
+    v\xE0 tinh th\u1EA7n ki\xEAn c\u01B0\u1EDDng c\u1EE7a ng\u01B0\u1EDDi d\xE2n
+    mi\u1EC1n Trung. Nhi\u1EC1u l\u1EC5 t\u01B0\u1EDFng ni\u1EC7m v\xE0 ho\u1EA1t
+    \u0111\u1ED9ng tri \xE2n \u0111\u01B0\u1EE3c t\u1ED5 ch\u1EE9c t\u1EA1i c\xE1c
+    di t\xEDch chi\u1EBFn tranh, g\xF3p ph\u1EA7n g\xECn gi\u1EEF k\xFD \u1EE9c l\u1ECBch
+    s\u1EED v\xE0 gi\xE1o d\u1EE5c truy\u1EC1n th\u1ED1ng cho c\xE1c th\u1EBF h\u1EC7
+    sau."
+  desSatNhap: "Theo th\xF4ng tin d\u1EF1 ki\u1EBFn t\u1EEB c\xE1c \u0111\u1EC1 \xE1n
+    s\u1EAFp x\u1EBFp \u0111\u01A1n v\u1ECB h\xE0nh ch\xEDnh, Qu\u1EA3ng B\xECnh
+    v\xE0 Qu\u1EA3ng Tr\u1ECB c\xF3 th\u1EC3 h\u1EE3p nh\u1EA5t th\xE0nh t\u1EC9nh
+    Qu\u1EA3ng Tr\u1ECB m\u1EDBi t\u1EEB n\u0103m 2025. T\u1EC9nh m\u1EDBi d\u1EF1
+    ki\u1EBFn c\xF3 di\u1EC7n t\xEDch g\u1EA7n 12.700km vu\xF4ng, d\xE2n s\u1ED1
+    tr\xEAn 1,8 tri\u1EC7u ng\u01B0\u1EDDi, l\u1EA5y th\xE0nh ph\u1ED1 \u0110\u1ED3ng
+    H\u1EDBi (Qu\u1EA3ng B\xECnh c\u0169) l\xE0m trung t\xE2m h\xE0nh ch\xEDnh -
+    ch\xEDnh tr\u1ECB. Vi\u1EC7c s\xE1p nh\u1EADp nh\u1EB1m t\u1EA1o ra kh\xF4ng
+    gian ph\xE1t tri\u1EC3n m\u1EDBi l\u1EDBn m\u1EA1nh h\u01A1n t\u1EA1i khu v\u1EF1c
+    B\u1EAFc Trung B\u1ED9."

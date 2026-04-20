@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: DONGNAI
+  m_EditorClassIdentifier: 
+  provinceName: "T\u1EC9nh \u0110\u1ED3ng Nai"
+  provinceID: T27_0
+  provinceImage: {fileID: 1655605735, guid: c28ae8be21259284ba1e9fa94a2b2139, type: 3}
+  photoGallery:
+  - {fileID: 21300000, guid: a90268a02442c4c4696b0d8e167d8cf2, type: 3}
+  - {fileID: 21300000, guid: 6b97909af6d482f428ae5089003a8ba8, type: 3}
+  MergerProvince: {fileID: 21300000, guid: 01bceaf5b7c64ed4597f93ed748ee6b2, type: 3}
+  provinceImage1: {fileID: 21300000, guid: 29a22f481f54d09479eb3181ba7afa90, type: 3}
+  provinceImage2: {fileID: 21300000, guid: 98955414bcfeec1418bd40f5196c3b4d, type: 3}
+  provinceImage3: {fileID: 21300000, guid: c9f93ce669afe814eb478ca75f7f4a0c, type: 3}
+  description: "\u0110\u1ED3ng Nai l\xE0 m\u1ED9t t\u1EC9nh thu\u1ED9c v\xF9ng \u0110\xF4ng
+    Nam B\u1ED9, n\u1EB1m g\u1EA7n Th\xE0nh ph\u1ED1 H\u1ED3 Ch\xED Minh. \u0110\xE2y
+    l\xE0 m\u1ED9t trong nh\u1EEFng \u0111\u1ECBa ph\u01B0\u01A1ng c\xF3 n\u1EC1n
+    c\xF4ng nghi\u1EC7p ph\xE1t tri\u1EC3n m\u1EA1nh v\u1EDBi nhi\u1EC1u khu c\xF4ng
+    nghi\u1EC7p l\u1EDBn, \u0111\xF3ng vai tr\xF2 quan tr\u1ECDng trong kinh t\u1EBF
+    khu v\u1EF1c. \u0110\u1ED3ng Nai c\xF2n c\xF3 nhi\u1EC1u \u0111\u1ECBa danh n\u1ED5i
+    ti\u1EBFng nh\u01B0 V\u01B0\u1EDDn qu\u1ED1c gia C\xE1t Ti\xEAn v\xE0 Khu du
+    l\u1ECBch B\u1EEDu Long. Ngo\xE0i ra, t\u1EC9nh c\xF2n c\xF3 h\u1EC7 th\u1ED1ng
+    s\xF4ng ng\xF2i phong ph\xFA, \u0111\u1EB7c bi\u1EC7t l\xE0 S\xF4ng \u0110\u1ED3ng
+    Nai, g\xF3p ph\u1EA7n quan tr\u1ECDng trong ph\xE1t tri\u1EC3n kinh t\u1EBF v\xE0
+    \u0111\u1EDDi s\u1ED1ng c\u1EE7a ng\u01B0\u1EDDi d\xE2n."
+  desSatNhap: "Sau khi s\xE1p nh\u1EADp v\u1EDBi t\u1EC9nh B\xECnh Ph\u01B0\u1EDBc
+    v\xE0o n\u0103m 2025, t\u1EC9nh \u0110\u1ED3ng Nai c\xF3 di\u1EC7n t\xEDch 12.737,18
+    km\xB2 v\xE0 d\xE2n s\u1ED1 \u0111\u1EA1t kho\u1EA3ng 4,49 tri\u1EC7u ng\u01B0\u1EDDi,
+    v\u1EDBi 95 \u0111\u01A1n v\u1ECB h\xE0nh ch\xEDnh c\u1EA5p x\xE3."

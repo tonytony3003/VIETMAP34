@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a8d6e8d9f8d9842ae838e897f76733, type: 3}
+  m_Name: HUE
+  m_EditorClassIdentifier: 
+  provinceName: "Th\xE0nh Ph\u1ED1 Hu\u1EBF"
+  provinceID: T20_0
+  provinceImage: {fileID: 1912747448, guid: 2667351ad7d5e8049baf58273502a2be, type: 3}
+  photoGallery: []
+  MergerProvince: {fileID: 0}
+  provinceImage1: {fileID: 21300000, guid: 4b35618cc9ba64b4eb8e87d8d2e47e36, type: 3}
+  provinceImage2: {fileID: 21300000, guid: 55bbbbaaccbc6034ab86b580fa7a77ae, type: 3}
+  provinceImage3: {fileID: 21300000, guid: 95223a2d34fbe7543ac66bd90724669a, type: 3}
+  description: "Hu\u1EBF l\xE0 th\xE0nh ph\u1ED1 n\u1EB1m \u1EDF mi\u1EC1n Trung
+    c\u1EE7a Vi\u1EC7t Nam, b\xEAn b\u1EDD S\xF4ng H\u01B0\u01A1ng. Hu\u1EBF t\u1EEBng
+    l\xE0 kinh \u0111\xF4 c\u1EE7a tri\u1EC1u Nh\xE0 Nguy\u1EC5n n\xEAn n\u01A1i
+    \u0111\xE2y c\xF3 nhi\u1EC1u di t\xEDch l\u1ECBch s\u1EED v\xE0 ki\u1EBFn tr\xFAc
+    c\u1ED5 k\xEDnh. N\u1ED5i b\u1EADt nh\u1EA5t l\xE0 qu\u1EA7n th\u1EC3 Kinh th\xE0nh
+    Hu\u1EBF, c\xF9ng v\u1EDBi c\xE1c c\xF4ng tr\xECnh nh\u01B0 Ch\xF9a Thi\xEAn
+    M\u1EE5 v\xE0 c\xE1c l\u0103ng t\u1EA9m c\u1EE7a c\xE1c v\u1ECB vua Nguy\u1EC5n.\nHu\u1EBF
+    c\u0169ng n\u1ED5i ti\u1EBFng v\u1EDBi n\u1EC1n \u1EA9m th\u1EF1c phong ph\xFA
+    v\xE0 tinh t\u1EBF, ti\xEAu bi\u1EC3u nh\u01B0 B\xFAn b\xF2 Hu\u1EBF, C\u01A1m
+    h\u1EBFn v\xE0 B\xE1nh b\xE8o Hu\u1EBF.\nV\u1EC1 v\u0103n h\xF3a, Hu\u1EBF mang
+    \u0111\u1EADm n\xE9t truy\u1EC1n th\u1ED1ng cung \u0111\xECnh v\xE0 d\xE2n gian,
+    n\u1ED5i b\u1EADt v\u1EDBi Nh\xE3 nh\u1EA1c cung \u0111\xECnh Hu\u1EBF \u2013
+    lo\u1EA1i h\xECnh \xE2m nh\u1EA1c cung \u0111\xECnh \u0111\u01B0\u1EE3c UNESCO
+    c\xF4ng nh\u1EADn l\xE0 Di s\u1EA3n v\u0103n h\xF3a phi v\u1EADt th\u1EC3 c\u1EE7a
+    nh\xE2n lo\u1EA1i. Th\xE0nh ph\u1ED1 c\xF2n n\u1ED5i ti\u1EBFng v\u1EDBi c\xE1c
+    l\u1EC5 h\u1ED9i v\u0103n h\xF3a v\xE0 kh\xF4ng gian ki\u1EBFn tr\xFAc c\u1ED5
+    k\xEDnh mang \u0111\u1EADm d\u1EA5u \u1EA5n l\u1ECBch s\u1EED."
+  desSatNhap: 
